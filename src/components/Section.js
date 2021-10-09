@@ -80,7 +80,7 @@ const DownArrow = styled.img`
   justify-items:center;
   align-items:center;
   height: 40px;
-  animation: animateDown infinite 1.5s;
+  animation: animateDown infinite 0.5s;
   cursor:pointer;
 `;
 
